@@ -1,4 +1,4 @@
-<h1 align="center">📰 ROSPL Project – Group 17</h1>
+<h1 align="center">📰 ROSPL Project – Group 17 </h1>
 <h2 align="center">AI News Summarizer</h2>
 
 <p align="center">
