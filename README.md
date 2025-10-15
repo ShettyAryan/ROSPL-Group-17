@@ -27,6 +27,17 @@ It uses **Hugging Face Transformers** for summarization and **Streamlit** for an
 
 ---
 
+### 🍵Grouo Members
+| Name | Details |
+|----------|----------|
+| **Aryan Shetty** | BE IT2 36 |
+| **yash Surve** | BE IT2 43 |
+| **Vedant Reddy** | BE IT2 21 |
+| **Shivam Wadkar** | BE IT2 54 |
+
+
+---
+
 ### 🧩 Tech Stack
 | Component | Technology Used |
 |------------|-----------------|
@@ -56,3 +67,23 @@ It uses **Hugging Face Transformers** for summarization and **Streamlit** for an
 ```bash
 git clone https://github.com/ShettyAryan/ROSPL-Group-17.git
 cd ROSPL-Group-17
+```
+#### 2️⃣ Create a Virtual Environment
+```bash
+python -m venv venv
+```
+#### 3️⃣ Activate Virtual Environment
+```bash
+venv\Scripts\activate
+```
+
+#### 4️⃣ Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+#### 5️⃣ Run the application
+```bash
+streamlit run app.py
+```
+
