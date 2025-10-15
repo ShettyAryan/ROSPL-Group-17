@@ -11,7 +11,7 @@
 ---
 
 ### 📘 About the Project
-The **AI News Summarizer** is an open-source project developed as part of the **ROSPL (Reports on Open Source Projects and Libraries)** subject for **Semester 7, Mumbai University**.  
+The **AI News Summarizer** is an open-source project developed as part of the **ROSPL** subject.  
 
 This project leverages the power of **Natural Language Processing (NLP)** and **Transformer models** to automatically summarize lengthy online news articles into concise and readable paragraphs.  
 It uses **Hugging Face Transformers** for summarization and **Streamlit** for an interactive and minimal web interface.
@@ -27,7 +27,7 @@ It uses **Hugging Face Transformers** for summarization and **Streamlit** for an
 
 ---
 
-### 🍵Grouo Members
+### 🍵Group Members
 | Name | Details |
 |----------|----------|
 | **Aryan Shetty** | BE IT2 36 |
